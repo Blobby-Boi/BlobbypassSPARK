@@ -1,5 +1,5 @@
 # BlobbypassSPARK
-## A SPARKvue Webview Exploit that uses BlobbypassXSS
+## SPARKvue Webview Exploit that uses BlobbypassXSS
 
 ### How to use:
 * First, install [SPARKvue](https://chromewebstore.google.com/detail/sparkvue/iimbdmgkimpbhimdjnmiffmeefbppijo?hl=en-US) from the Chrome Webstore.
