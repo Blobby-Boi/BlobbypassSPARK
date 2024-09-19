@@ -1,10 +1,10 @@
-# BlobbypassSPK
-## A SparkVUE Webview Exploit that uses BlobbypassXSS
+# BlobbypassSPARK
+## A SPARKvue Webview Exploit that uses BlobbypassXSS
 
 ### How to use:
-* First, install [SparkVUE](https://chromewebstore.google.com/detail/sparkvue/iimbdmgkimpbhimdjnmiffmeefbppijo?hl=en-US) from the Chrome Webstore.
+* First, install [SPARKvue](https://chromewebstore.google.com/detail/sparkvue/iimbdmgkimpbhimdjnmiffmeefbppijo?hl=en-US) from the Chrome Webstore.
 * Then, download [this file](tinyurl.com/BIobbypassSPK-2).
-* Open SparkVUE and click on "Open Saved Experiment"
+* Open SPARKvue and click on "Open Saved Experiment"
 * Then, select the file that you downloaded earlier.
 * That's it!
   
