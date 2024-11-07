@@ -1,4 +1,4 @@
-# So, appearently SPARKvue decided to take their app off the webstore. This webview is now patched unless you already had the app downloaded prior to them removing it.
+# > ⚠️ **Disclaimer:** So, appearently SPARKvue decided to take their app off the webstore. This webview is now patched unless you already had the app downloaded prior to them removing it.
 
 # BlobbypassSPARK
 ## SPARKvue Webview Exploit that uses BlobbypassXSS
